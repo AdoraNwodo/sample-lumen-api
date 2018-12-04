@@ -28,3 +28,8 @@ Wrote this code for a test and decided to add it to GitHub.
 ### TODO
 - Authentication
 - Create endpoints to update and delete events
+
+
+## License
+
+MIT. Please see the [license file](LICENSE) for more information.
